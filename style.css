@@ -1,13 +1,17 @@
 *{
   margin: 0; 
   padding: 0;
-  box-sizzing: border-box;
+  box-sizing: border-box;
   }
 
 header{
-  background-color:blueviolet
-  color: #fff
+  background-color: lightblue;
+  color: #fff;
 }
+header h1 
+{ text-align:center 
+}
+
 li
 {
   color: rgb(0, 0, 255)
