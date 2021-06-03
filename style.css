@@ -1,0 +1,14 @@
+*{
+  margin: 0; 
+  padding: 0;
+  box-sizzing: border-box;
+  }
+
+header{
+  background-color:blueviolet
+  color: #fff
+}
+li
+{
+  color: rgb(0, 0, 255)
+} 
