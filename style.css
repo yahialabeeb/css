@@ -1,12 +1,15 @@
 *{
   margin: 0; 
-  padding: 0;
+  padding: 5px;
   box-sizing: border-box;
   }
 
 header{
+  
   background-color: lightblue;
   color: #fff;
+  padding: 5px;
+  
 }
 header h1 
 { text-align:center 
@@ -14,5 +17,5 @@ header h1
 
 li
 {
-  color: rgb(0, 0, 255)
+  color: rgba(75, 1, 71, 0.829)
 } 
